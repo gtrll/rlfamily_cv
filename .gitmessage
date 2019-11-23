@@ -1,0 +1,10 @@
+# A guide for writing commit messages: https://chris.beams.io/posts/git-commit/
+
+# If this commit is applied, it will... (short (72 chars or less) summary)
+
+# Refer to issue #<IssueId>, Fixes: #1234
+
+# Why was this change needed?
+
+# How does it address the issue?
+
